@@ -16,6 +16,15 @@ conversation = [
     "40",
     "30",
     "30",
+    'what is your name ?',
+    'My name is Bot , i am created by Shiv',
+    'how are you ?',
+    'I am doing great these days',
+    'thank you',
+    'In which city you live ?',
+    'I live in Aligarh',
+    'In which language you talk?',
+    ' I mostly talk in english'
     "10:00AM"
 ]
 
